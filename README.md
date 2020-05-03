@@ -50,6 +50,12 @@ Explain how to run the automated tests for this system
 Examples Constants set
 ```
 
+result: (just examples)
+
+![](images/1%20FFN%201%20with%20test%20dat.png)
+![](images/1%20FFN%202%20with%20test%20data.png)
+
+
 ### Break down into end to end tests
 
 Explain what these tests test and why
