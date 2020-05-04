@@ -2,9 +2,7 @@
 
 About 5-8 pages 
 
-A documentation of the design.
-
-Demonstration of the project. 
+A documentation of the design & Demonstration of the project. 
 
 how readme.md works:
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
