@@ -4,5 +4,5 @@ This version is based on the previous version "1 FFN" and inherits most of its f
 
 Parameters that are subject to change/adjustment are listed in module "Constants.py"
 
-Can manually change the min-max setting in the module "Data_Arrangement" by toggle comments. (Entire history mix-max usually produce better results)
+Can manually change the min-max setting in the module "Data_Arrangement" by toggle comments. (Entire history min-max usually produce better results)
 
