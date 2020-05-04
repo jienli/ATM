@@ -25,7 +25,7 @@ What things you need to install the software and how to install them (pandas and
 ```
 Open the terminal, go to the home directory, and type pip install pandas.
 ```
-![]（pandas%20:%20install.png）
+![]（images/pandas:install.png）
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
