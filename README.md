@@ -45,6 +45,7 @@ End with an example of getting some data out of the system or using it for a lit
 ## Running the tests
 
 Before running each individual test, change the constant inputs in Constants.py to your desired indexes.
+```
 Description of what each constant represents: 
 Test: 
 Repo:
@@ -56,6 +57,7 @@ STRUCTURE:
 TICKER: the stock symbol. 
 BIAS: 
 DRUNKNESS_INDEX: speed of training. 
+```
 ```
 Examples Constants set
 TEST = 100
