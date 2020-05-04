@@ -32,19 +32,28 @@ Open the terminal, go to the home directory, and type pip install pandas.
 
 A step by step series of examples that tell you how to get a development env running
 
-First go to your desired repository and make a local clone of the project.
+First go to your desired repository and make a local clone of the project. 
+
+```
+Example: Corys-MacBook-Pro:project corry$ git clone https://github.com/jienli/ATM.git
 
 ```
 
-```
-
-And repeat
+Then go to the ATM file.
 
 ```
-until finished
-```
+Corys-MacBook-Pro:project corry$ cd ATM
 
-End with an example of getting some data out of the system or using it for a little demo
+```
+Open your text editor. In our case we use Atom. 
+
+```
+Corys-MacBook-Pro:ATM corry$ atom .
+
+```
+Try the files ending with .py. This is a sample result of trying Data_Arrangement.py.
+
+![](https://github.com/jienli/ATM/blob/master/images/5831588609290_.pic_hd.jpg)
 
 ## Running the tests
 
