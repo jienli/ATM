@@ -36,24 +36,25 @@ First go to your desired repository and make a local clone of the project.
 
 ```
 Example: Corys-MacBook-Pro:project corry$ git clone https://github.com/jienli/ATM.git
-
 ```
 
 Then go to the ATM file.
 
 ```
 Corys-MacBook-Pro:project corry$ cd ATM
-
 ```
 Open your text editor. In our case we use Atom. 
 
 ```
 Corys-MacBook-Pro:ATM corry$ atom .
-
 ```
-Try the files ending with .py. This is a sample result of trying Data_Arrangement.py.
-
+Try the files ending with .py. These are the sample results.
+![](https://github.com/jienli/ATM/blob/master/images/5791588609220_.pic_hd.jpg)
+![](https://github.com/jienli/ATM/blob/master/images/5801588609231_.pic_hd.jpg)
+![](https://github.com/jienli/ATM/blob/master/images/5811588609244_.pic_hd.jpg)
+![](https://github.com/jienli/ATM/blob/master/images/5821588609272_.pic_hd.jpg)
 ![](https://github.com/jienli/ATM/blob/master/images/5831588609290_.pic_hd.jpg)
+![](https://github.com/jienli/ATM/blob/master/images/WechatIMG901.png)
 
 ## Running the tests
 
