@@ -8,7 +8,7 @@ how readme.md works:
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
 
-# Project Title
+# Network-Science Final Project: ATM MACHINE
 
 This project is an attempt to predict security fluctuations and help human traders make more rational and favorable decisions. Its decision-making ability will root in machine learning based on neural networks. The ultimate goal of this algorithm is to be trained by historical stock data to achieve the goal of attaining a high win rate as the stock market plays out in real time.
 
