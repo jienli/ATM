@@ -32,10 +32,10 @@ Open the terminal, go to the home directory, and type pip install pandas.
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+First go to your desired repository and make a local clone of the project.
 
 ```
-Give the example
+
 ```
 
 And repeat
