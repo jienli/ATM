@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them (pandas and whatnot)
+This project requires you to install pandas, a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
 ```
 Open the terminal, go to the home directory, and type pip install pandas.
