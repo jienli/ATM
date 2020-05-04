@@ -50,12 +50,12 @@ Before running each individual test, change the constant inputs in Constants.py 
 ```
 Description of what each constant represents: 
 Test: 
-Repo:
-INFO:
-STARTDATE: number of days after the year of 2005, as the starting date of our test. 
+Repo: number of test set (stock data of consecutive days).
+INFO: number of data in each set.
+STARTDATE: number of days after the year of 2005, January 1, as the starting date of our test. 
 TRAIN_ITERATION: number of training iterations.
 NUM_OF_STARTING_POINTS: mumber of starting points.
-STRUCTURE: 
+STRUCTURE: neural network structure, number of nodes in each layer(first layer need to match info), last layer need to be 1, only 3 layers for now
 TICKER: the stock symbol. 
 BIAS: 
 DRUNKNESS_INDEX: speed of training. 
