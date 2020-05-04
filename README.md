@@ -21,7 +21,9 @@ These instructions will get you a copy of the project up and running on your loc
 This project requires you to install pandas, a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
 ```
+
 Open the terminal, go to the home directory, and type pip install pandas.
+
 ```
 
 ![](images/pandas:install.png)
@@ -33,19 +35,28 @@ A step by step series of examples that tell you how to get a development env run
 First go to your desired repository and make a local clone of the project. 
 
 ```
+
 Example: Corys-MacBook-Pro:project corry$ git clone https://github.com/jienli/ATM.git
+
 ```
 
 Then go to the ATM file.
 
 ```
+
 Corys-MacBook-Pro:project corry$ cd ATM
-```
-Open your text editor. In our case we use Atom. 
 
 ```
-Corys-MacBook-Pro:ATM corry$ atom .
+
+Open your text editor. In our case we use Atom. 
+
+
 ```
+
+Corys-MacBook-Pro:ATM corry$ atom .
+
+```
+
 Try the files ending with .py. These are the sample results.
 ![](https://github.com/jienli/ATM/blob/master/images/5791588609220_.pic_hd.jpg)
 ![](https://github.com/jienli/ATM/blob/master/images/5801588609231_.pic_hd.jpg)
@@ -57,7 +68,9 @@ Try the files ending with .py. These are the sample results.
 ## Running the tests
 
 Before running each individual test, change the constant inputs in Constants.py to your desired indexes.
+
 ```
+
 Description of what each constant represents: 
 Test: 
 Repo: number of test set (stock data of consecutive days).
@@ -69,8 +82,11 @@ STRUCTURE: neural network structure, number of nodes in each layer(first layer n
 TICKER: the stock symbol. 
 BIAS: 
 DRUNKNESS_INDEX: speed of training. 
+
 ```
+
 ```
+
 Examples Constants set
 TEST = 100
 REP = 200
@@ -98,7 +114,9 @@ result: (just examples)
 Explain what these tests test and why
 
 ```
+
 Give an example
+
 ```
 
 ### And coding style tests
@@ -106,7 +124,9 @@ Give an example
 Explain what these tests test and why
 
 ```
+
 Give an example
+
 ```
 
 ## Deployment
