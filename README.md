@@ -148,6 +148,15 @@ result: (just examples)
 ![](images/1%20FFN%202%20with%20test%20data.png)
 
 
+## Future Directions
+
+Keep on finding improvements and modify this algorithm, such as modifing the output format. If output is changed from specific stock prices to a binary decision of whether the stock price is moving up or down, then the result may show improvement.
+
+Try changing the existing neural network structure. Maybe change input layers positions so that distant days are distantly connected to the output layer and the day before is immediately connected to the output layer. This would make yesterday's stock price to be more influential at predicting today's price movement, which makes sense, right?
+
+Try using different neural network structures, such as LSTM, GAN, and more.
+
+
 ## Built With
 
 * [numpy] - Used for fast matri manipulations
