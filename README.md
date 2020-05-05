@@ -141,10 +141,6 @@ result: (just examples)
 ![](images/1%20FFN%202%20with%20test%20data.png)
 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [numpy] - Used for fast matri manipulations
