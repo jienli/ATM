@@ -26,9 +26,9 @@ The training speed of this model can be slow at times, and the error is not decr
 
 Several modifications of out own have been added in the hope to address observed problems listed above and improve algorithm performance.
 
-The parameter *** NUM_OF_STARTING_POINTS *** is just as it sound like. By deploying multiple starting points, we saw significant improvement to the first issue, at the price of longer training time.
+The parameter 'NUM_OF_STARTING_POINTS' is just as it sound like. By deploying multiple starting points, we saw significant improvement to the first issue, at the price of longer training time.
 
-The parameter *** DRUNKNESS_INDEX *** is, well, also as it sounds like. The drunker you are, the less prudent you are at taking steps when walking down the gradient descent. It has been shown to improve training speed and a smaller number of less prudent steps/iterations can achieve the same descent as a larger number of more careful iterations.
+The parameter 'DRUNKNESS_INDEX' is, well, also as it sounds like. The drunker you are, the less prudent you are at taking steps when walking down the gradient descent. It has been shown to improve training speed and a smaller number of less prudent steps/iterations can achieve the same descent as a larger number of more careful iterations.
 
 
 ### Visualization
