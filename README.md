@@ -10,9 +10,16 @@ This is only an entry level machine learnining program that has an ambitious goa
 
 The basid structure is as demonstrated in the figure below. Tha analogy is that each node represents a neuron and each edge  represents a synapse. Each neuron holds a value and each synapse has a weight. the neurons are divided into layers with the first layer being input layer, last layer being the output layer, and everything in between being hidden layper. 
 
+![Simple Neural Network](./images/1200px-Colored_neural_network.svg.png) Simple Neural Network
+
 When an input is given, it can propagate forward to asign vlues to the neurons in the next layer. Each neuron recieves a value that is the product of each of the previous neirons that lead up to it and their respective synaptic weights. The sum of all these product is then feed into an activation function that normalize the input to between 0 and 1. Here, we use a sigma function. This forward propagation can eventually assign value to the output layer and this is how the neural network is able to "think".
 
+
+
 The goal of training this neural network is to make its predictions or outputs as close to the real answers as possible. This is where the back propagation and gradient descent comes to play. An error can be calculated by taking the difference between the predicted output and the given reference output. That difference can be sent backward using derivatives of the activation function. Eventually, the gradient, or slope for each synaptic weight is calculated. Changes to synaptic weights can be made to reduce the error and the process is repeated.
+
+![Gradient Descent](./images/yasmQ5kvlmbYMe8eDkyl6w.png)Gradient Descent
+
 
 
 ### Observed Issues
