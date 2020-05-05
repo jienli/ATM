@@ -24,7 +24,7 @@ The goal of training this neural network is to make its predictions or outputs a
 
 ### Observed Issues
 
-Sometimes the training ends with dramatic results such as a stright line a the very top and bottom of the time-price graph. This issue is often fixed after multiple runs of the model. We think this issues is caused by bad choices of initial starting synaptic weights. The training may only lead to a local minimum that is actually very high comparing to the global minimum.
+Sometimes the training ends with dramatic results such as a straight line a the very top and bottom of the time-price graph. This issue is often fixed after multiple runs of the model. We think this issue is caused by bad choices of initial starting synaptic weights. The training may only lead to a local minimum that is actually very high comparing to the global minimum.
 
 The training speed of this model can be slow at times, and the error is not decresing significantly after many iterations of learning. We think this is because the gradient can be very small at certain points on the graph and the resulting changes to the synaptic weights are small. 
 
