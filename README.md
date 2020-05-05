@@ -141,26 +141,6 @@ result: (just examples)
 ![](images/1%20FFN%202%20with%20test%20data.png)
 
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-
-Give an example
-
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-
-Give an example
-
-```
-
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
